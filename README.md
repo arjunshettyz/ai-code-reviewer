@@ -1,5 +1,6 @@
 # AI Code Reviewer
 
+
 ![Additional Screenshot](snap.png)
 *Screenshot: Additional view of the application (snap.png).*
 
