@@ -1,8 +1,5 @@
 # AI Code Reviewer
 
-![AI Code Reviewer Screenshot](screenshot.png)
-*Screenshot: Example of the AI Code Reviewer web interface and output.*
-
 ![Additional Screenshot](snap.png)
 *Screenshot: Additional view of the application (snap.png).*
 
