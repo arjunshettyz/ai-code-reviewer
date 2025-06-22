@@ -1,8 +1,16 @@
+# AI Code Reviewer
+
+![AI Code Reviewer Screenshot](screenshot.png)
+*Screenshot: Example of the AI Code Reviewer web interface and output.*
+
+![Additional Screenshot](snap.png)
+*Screenshot: Additional view of the application (snap.png).*
+
 # MERN Stack AI-Powered Web Application
 
 This project demonstrates how to build a powerful AI-powered web application using the **MERN Stack** and the **Deepseek R1** model, running inference on the **Groq API** for ultra-fast AI responses. It integrates **React**, **Node.js**, **Express**, and **MongoDB** to create an AI chatbot or content generation tool.
 
-## What You’ll Learn:
+## What You'll Learn:
 - Setting up a MERN stack project
 - Integrating the Deepseek R1 model with the Groq API for fast AI inference
 - Building a responsive React frontend with **Tailwind CSS**
@@ -61,4 +69,6 @@ This project demonstrates how to build a powerful AI-powered web application usi
 
 6. Open the app in your browser:
     - Frontend: `http://localhost:5173`
-    - Backend: `http://localhost:3000/`
+    - Backend: `http://localhost:3000/
+
+    
